@@ -1,4 +1,4 @@
-# 🚗 Don’t Sleep (novo nome em breve)
+# 🚗 Don’t Sleep (Detector de Sonolência)
 
 Sistema inteligente de **alerta de sonolência para motoristas**, utilizando visão computacional para detectar quando o condutor fecha os olhos por alguns segundos e emitir um alerta imediato.  
 
